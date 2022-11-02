@@ -103,3 +103,8 @@ int main() {
   cout<<"残念～！'n'がついたので"<<nameInventory[wrongPlayerNum]<<"さんの負けです！";
   return 0;
 }
+
+
+＜ゲームループの図の画像＞
+
+![スクリーンショット_20221102_135022](https://user-images.githubusercontent.com/104427265/199402673-09e4f443-c50c-4313-b08b-e043ede3ffcc.png)
